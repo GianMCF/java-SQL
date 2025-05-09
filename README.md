@@ -1,1 +1,1 @@
-# ConexionMVC-MYSQL
+# ConexionMVC-MYSQL -- Gianmarco Castillo
